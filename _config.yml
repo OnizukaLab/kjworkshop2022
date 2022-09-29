@@ -1,0 +1,11 @@
+title: kjworkshop2022
+description: The 4th joint Korea-Japan Workshop on Management of Data 2022
+
+theme: minima
+header_pages:
+  - _pages/index.md
+  - _pages/program.md
+  - _pages/venue.md
+
+include:
+  - _pages
