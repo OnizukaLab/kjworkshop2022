@@ -9,3 +9,8 @@ title: Top
 
 ## Date
 November 5-7 (Sat.-Mon.) (JST)
+
+## Organizers
+* Makoto Onizuka (Osaka University)
+* Chuan Xiao (Osaka University)
+* Yuya Sasaki (Osaka University)

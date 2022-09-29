@@ -16,21 +16,21 @@ title: Program
 
 |Time|Reservation|
 |:-:|:-:|
-|10:00-11:00|TBD|
-|11:00-12:00|TBD|
-|12:00-13:00|Lunch Break|
-|13:00-13:30|TBD|
-|13:30-14:00|TBD|
-|14:00-14:30|TBD|
-|14:30-14:45|Break Time|
-|14:45-15:15|TBD|
-|15:15-15:45|TBD|
-|15:45-16:15|TBD|
-|16:15-16:30|Break Time|
-|16:30-17:00|TBD|
-|17:00-17:30|TBD|
-|17:30-18:00|TBD|
-|18:00-19:00|Break Time|
+|10:00-10:15|Greetings|
+|10:15-11:15|Prof. Wook-Shin Han<br>- TBD|
+|11:15-12:15|Prof. Sourav S Bhowmick<br>- TBD|
+|12:15-13:15|Lunch Break|
+|13:15-14:15|Dr. Kyoung-Sook Kim<br>- TBD|
+|14:15-14:45|TBD|
+|14:45-15:00|Break Time|
+|15:00-15:30|TBD|
+|15:30-16:00|TBD|
+|16:00-16:30|TBD|
+|16:30-16:45|Break Time|
+|16:45-17:15|TBD|
+|17:15-17:45|TBD|
+|17:45-18:15|TBD|
+|18:15-19:00|Break Time|
 |19:00-21:00|Exchange Opinions|
 
 
