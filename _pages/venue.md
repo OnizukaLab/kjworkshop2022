@@ -13,6 +13,13 @@ title: Venue and Accommodation
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.554362972866!2d130.42047285130874!3d33.59091804925103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354191c8f7312213%3A0x78ec0060b035bf8e!2z44OZ44Kk44K344K656aP5bKh77yIQkFTRVPvvInljZrlpJrpp4XmnbHosrjjgZfkvJrorbDlrqQ!5e0!3m2!1sen!2sjp!4v1664440159319!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+### From Fukuoka Airport
+* Fukuoka Airport International Terminal to Fukuoka Airport Domestic Terminal
+  * Shuttle Bus (15 min.) [Timetable and details](https://www.fukuoka-airport.jp/en/access/bus2.html)
+    ![](../imgs/fukuoka_airport_bus.png)
+* Fukuoka Airport Domestic Terminal (Fukuoka Airport Sta.) to Hakata Sta.
+  * Fukuoka City Subway Airport Line (5 min.)
+
 
 ## Accommodation
 [Hakata Yufuin-Takeo Onsen Manyo-no-Yu, Hakata (博多 由布院・武雄温泉 万葉の湯)](https://www.manyo.co.jp/hakata/eng/)
