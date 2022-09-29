@@ -16,7 +16,7 @@ title: Venue and Accommodation
 ### From Fukuoka Airport
 * Fukuoka Airport International Terminal to Fukuoka Airport Domestic Terminal
   * Shuttle Bus (15 min.) [Timetable and details](https://www.fukuoka-airport.jp/en/access/bus2.html)
-    ![](../imgs/fukuoka_airport_bus.png)
+    ![](../_imgs/fukuoka_airport_bus.png)
 * Fukuoka Airport Domestic Terminal (Fukuoka Airport Sta.) to Hakata Sta.
   * Fukuoka City Subway Airport Line (5 min.)
 
