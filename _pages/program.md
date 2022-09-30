@@ -22,7 +22,7 @@ title: Program
 |10:30-11:30|Prof. Wook-Shin Han<br>- TBD|
 |11:30-12:00|TBD|
 |12:00-13:30|Lunch Break|
-|13:30-14:30|Prof. Sourav S Bhowmick<br>- TBD|
+|13:30-14:30|TBD|
 |14:30-15:00|TBD|
 |15:00-15:15|Break Time|
 |15:15-15:45|TBD|
