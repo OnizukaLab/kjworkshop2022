@@ -27,6 +27,6 @@ title: Venue and Accommodation
 * Address: 2-3-66 Yutaka, Hakata, Fukuoka 812-0042
 * TEL: `+81 92-452-4126`
 * [Access Details](https://www.manyo.co.jp/hakata/eng/access/)
-  * Recommended to use trains or free manyo shuttle buses
+  * Recommended to walk or use free manyo shuttle buses from Hakata Sta. to the hotel.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14496.682539576004!2d130.43389926595657!3d33.59546805393383!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x232bd79b4a006834!2sManyo%20No%20Yu!5e0!3m2!1sen!2sjp!4v1664439718691!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
