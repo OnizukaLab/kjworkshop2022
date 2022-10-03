@@ -6,7 +6,7 @@ header_pages:
   - _pages/index.md
   - _pages/program.md
   - _pages/venue.md
-  - _pages/border.md
+  - _pages/bordercontrol.md
 
 include:
   - _pages
