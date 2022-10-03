@@ -9,6 +9,7 @@ title: Program
 
 |Time|Reservation|
 |:-:|:-:|
+|18:00-19:00|Business Meeting|
 |19:00-21:00|Exchange Opinions|
 
 
