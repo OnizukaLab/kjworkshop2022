@@ -19,10 +19,10 @@ title: Program
 |09:00-09:15|Greetings|
 |09:15-10:15|Prof. C. Mohan<br>- TBD|
 |10:15-10:30|Break Time|
-|10:30-11:30|Prof. Wook-Shin Han<br>- TBD|
+|10:30-11:30|Dr. Xin Liu<br>- TBD|
 |11:30-12:00|TBD|
 |12:00-13:30|Lunch Break|
-|13:30-14:30|TBD|
+|13:30-14:30|Prof. Wook-Shin Han<br>- TBD|
 |14:30-15:00|TBD|
 |15:00-15:15|Break Time|
 |15:15-15:45|TBD|
