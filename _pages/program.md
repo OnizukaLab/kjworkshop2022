@@ -20,7 +20,7 @@ title: Program
 |09:00-09:15||Greetings|
 |09:15-10:15|Prof. C. Mohan|TBD|
 |10:15-10:30||Break Time|
-|10:30-11:30|Dr. Xin Liu|TBD|
+|10:30-11:30|Dr. Xin Liu|`Feature Selection: Key to Enhance Node Classification with Graph Neural Networks`|
 |11:30-12:00|Mr. Wonseok Lee|`A Fast Capture/Replay System`|
 |12:00-13:30||Lunch Break|
 |13:30-14:30|Prof. Wook-Shin Han|`Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation`|
@@ -39,7 +39,7 @@ title: Program
 
 |Time|Presenter|Title|
 |:-:|:-|:-|
-|09:00-10:00|Dr. Kyoung-Sook Kim|TBD|
+|09:00-10:00|Dr. Kyoung-Sook Kim|`A 3D map platform for supporting safe and secure mobility`|
 |10:00-10:30|Mr. Koji Matuda|`Federated Learning via Model Exchange`|
 |10:30-10:45||Break Time|
 |10:45-11:15||TBD|
