@@ -40,7 +40,7 @@ title: Program
 |Time|Presenter|Title|
 |:-:|:-|:-|
 |09:00-10:00|Dr. Kyoung-Sook Kim|TBD|
-|10:00-10:30||TBD|
+|10:00-10:30|Mr. Koji Matuda|`Federated Learning via Model Exchange`|
 |10:30-10:45||Break Time|
 |10:45-11:15||TBD|
 |11:15-11:45||TBD|
