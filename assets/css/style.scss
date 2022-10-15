@@ -1,0 +1,12 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+table {
+    td:first-child {
+        white-space: nowrap;
+    }
+}
