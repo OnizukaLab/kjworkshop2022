@@ -17,7 +17,7 @@ title: Program
 |Time|Presenter|Title/Contents|
 |:-:|:-|:-|
 |09:00-09:15||Greetings|
-|09:15-10:15|Prof. C. Mohan|TBD|
+|09:15-10:15|Prof. C. Mohan|`My Technical Life: A Retrospective View`|
 |10:15-10:30||Break Time|
 |10:30-11:30|Dr. Xin Liu|`Feature Selection: Key to Enhance Node Classification with Graph Neural Networks`|
 |11:30-12:00|Mr. Wonseok Lee|`A Fast Capture/Replay System`|
