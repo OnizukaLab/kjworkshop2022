@@ -7,7 +7,3 @@ header_pages:
   - _pages/program.md
   - _pages/venue.md
   - _pages/bordercontrol.md
-
-include:
-  - _pages
-  - _imgs
