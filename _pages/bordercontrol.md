@@ -1,7 +1,7 @@
 ---
 permalink: /bordercontrol
 layout: home
-title: Information about the border control
+title: Border Control Information
 ---
 
 [Measures for Resuming Cross-Border Travel](https://www.mofa.go.jp/ca/cp/page22e_000925.html)
