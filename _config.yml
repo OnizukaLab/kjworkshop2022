@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - _pages/index.md
   - _pages/program.md
+  - _pages/invitedspeakers.md
   - _pages/venue.md
   - _pages/bordercontrol.md
 
