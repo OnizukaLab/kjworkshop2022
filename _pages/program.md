@@ -9,7 +9,7 @@ title: Program
 |Time|Presenter|Title/Contents|
 |:-:|:-|:-|
 |18:00-19:00||Business Meeting|
-|19:00-21:00||Exchange Opinions|
+|19:00-21:00||Exchange Opinions at [和食 喜友](https://tabelog.com/en/fukuoka/A4001/A400101/40006967/)|
 
 
 ## November 6 (Sun.)
@@ -21,14 +21,14 @@ title: Program
 |10:15-10:30||Break Time|
 |10:30-11:30|Dr. Xin Liu|`Feature Selection: Key to Enhance Node Classification with Graph Neural Networks`|
 |11:30-12:00|Mr. Seiji Maekawa|`Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs`|
-|12:00-13:30||Lunch Break|
+|12:00-13:30||Lunch Break at [ピエトロ キャナルシティ店](https://tabelog.com/en/fukuoka/A4001/A400101/40001241/)|
 |13:30-14:30|Prof. Wook-Shin Han|`Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation`|
 |14:30-15:00|Ms. Yukyoung Lee|`In-depth Analysis of Continuous Subgraph Matching`|
 |15:00-17:00||Excursion|
 |17:00-17:30|Mr. Jaehyun Ha|`A Fast Capture/Replay System (1)`|
 |17:30-18:00|Mr. Wonseok Lee|`A Fast Capture/Replay System (2)`|
 |18:00-19:00||Buffer/To hotel|
-|19:00-21:00||Exchange Opinions|
+|19:00-21:00||Exchange Opinions at [九州和食 八州 博多駅筑紫口店](https://tabelog.com/en/fukuoka/A4001/A400101/40046598/)|
 
 
 ## November 7 (Mon.)
