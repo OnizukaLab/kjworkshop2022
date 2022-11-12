@@ -55,10 +55,22 @@ Abstract:
 > In this talk, using my own life as an example, I discuss the excitement of doing research and developing advanced technologies. Starting with my undergraduate days as a chemical engineering student at IIT Madras, I narrate how my academic life changed when I got introduced to an IBM mainframe which led to my ultimately doing a PhD in computer science at University of Texas at Austin. Along the way, I talk about the frustrations of the prolonged hunt for a PhD thesis topic. Then, I trace my professional career at IBM which included working on hot topics as well as what were initially thought by others to be passé topics which turned out to be not so! I deal with the difficulties of getting papers published and doing technology transfer to new products as well as old ones. Having never been a manager during my entire 38.5 years IBM career, even though as an IBM Fellow I had been an IBM executive for 23 years, I bring a unique perspective on what it takes to be on a long-term purely technical career path. I discuss the DOs and DONTs of choosing technical topics to work on, and on being successful in having impact internally and outside one’s employer. Based in general on my extensive travels across the world and in particular on my experience of working as the IBM India Chief Scientist, while based in Bangalore for almost 3 years, I also address issues that arise in being part of a multinational corporation and trying to be successful in doing deeply technical work in a developing country. I also talk about how I am keeping myself active technically and professionally since my retirement from IBM in June 2020.
 
 
+### Archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8_s_sGkC0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Related Talks
+#### Query Optimization and Processing: Trends and Directions
+At the 15th Big Data Infrastructure (BDI) Workshop in Osaka University (Nov. 4, 2022)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZoSOSlO6GI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ---
 
 
 ## Brief Timetable Update History
+* Nov. 13, 2022
+    * Add videos
 * Nov. 2, 2022, 12:00
     * Rearrangement: Mr. Seiji Maekawa, Mr. Jaehyun Ha, and Mr. Wonseok Lee
     * Topic update: Mr. Jaehyun Ha and Mr. Wonseok Lee
