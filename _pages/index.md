@@ -6,6 +6,9 @@ title: Top
 
 
 ## The 4th joint Korea-Japan Workshop on Management of Data 2022, Fukuoka, Japan
+**The workshop has successfully ended. Many thanks!**
+
+Now the archive of invited talks is available [here](program.md#invited-talks).
 
 ## Date
 November 5-7 (Sat.-Mon.) (JST)
