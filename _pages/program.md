@@ -64,11 +64,15 @@ Abstract:
 At the 15th Big Data Infrastructure (BDI) Workshop in Osaka University (Nov. 4, 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZoSOSlO6GI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+At [here](https://bit.ly/pptQOP) you can find the slides of this video's talk "Query Optimization and Processing: Trends and Directions" (abstract at [here](https://bit.ly/CMqopA)) that was given on 4 November 2022 at the 15th Big Data Infrastructure (BDI) Workshop (see [here](https://bit.ly/3SAzP0Z) for the agenda) in Osaka University, Japan. The spreadsheet at https://bit.ly/CMoTalks has been updated with information on this talk, and also with information on many related upcoming and past talks. 
+
 
 ---
 
 
 ## Brief Timetable Update History
+* Dec. 5, 2022
+    * Add description
 * Nov. 13, 2022
     * Add videos
 * Nov. 2, 2022, 12:00
